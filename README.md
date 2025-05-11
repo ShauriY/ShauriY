@@ -69,7 +69,7 @@ Arduino-powered household automation project:
 ## Currently
 
 - Working as a **Software Engineering Intern** at FindHelp
-- <!-- focused on internal tools using **Python APIs** and **GCP**
+  <!-- focused on internal tools using **Python APIs** and **GCP**
   Exploring the intersection of backend infra and intelligent user interfaces
   Interested in impactful developer experiences & automating pain points -->
 
